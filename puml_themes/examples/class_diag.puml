@@ -1,0 +1,8 @@
+@startuml
+
+!theme lunaria-light from ..
+class Example {
+  Theme spacelab
+}
+
+@enduml
